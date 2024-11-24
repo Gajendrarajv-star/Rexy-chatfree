@@ -1,4 +1,4 @@
-# Rexy-chatfree
+# Rexy-chatfree ollama
 ✨ Built My First Chatbot! 🤖
 
 I created a beginner-friendly chatbot using Ollama LLM - Llava, LangChain, and Streamlit. 🚀
